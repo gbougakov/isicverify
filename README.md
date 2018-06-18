@@ -12,3 +12,6 @@ verifyISIC('cardnumber').then(function(isValid) {
 	console.log(isValid)
 })
 ```
+
+### How it works
+ISIC does not have a public API, but they have a [verification form](https://www.isic.org/verify/) which this module fills out and then parses the response HTML to get the result
