@@ -1,0 +1,31 @@
+{
+  "name": "isicverify",
+  "version": "1.0.0",
+  "description": "Verify ISIC card number",
+  "main": "index.js",
+  "scripts": {
+    "test": "standart && ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GeorgeBgk/isicverify.git"
+  },
+  "keywords": [
+    "ISIC",
+    "student",
+    "id"
+  ],
+  "author": "George Bougakov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GeorgeBgk/isicverify/issues"
+  },
+  "homepage": "https://github.com/GeorgeBgk/isicverify#readme",
+  "devDependencies": {
+    "ava": "^0.25.0"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "request": "^2.87.0"
+  }
+}
