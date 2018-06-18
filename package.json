@@ -22,7 +22,8 @@
   },
   "homepage": "https://github.com/GeorgeBgk/isicverify#readme",
   "devDependencies": {
-    "ava": "^0.25.0"
+    "ava": "^0.25.0",
+    "standart": "^6.1.0"
   },
   "dependencies": {
     "cheerio": "^1.0.0-rc.2",
