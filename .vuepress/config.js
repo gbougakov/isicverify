@@ -4,5 +4,5 @@ module.exports = {
   themeConfig: {
     sidebar: false
   },
-  base: '/jebase/'
+  base: '/isicverify/'
 }
