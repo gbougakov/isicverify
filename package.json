@@ -4,7 +4,7 @@
   "description": "Verify ISIC card number",
   "main": "index.js",
   "scripts": {
-    "test": "standart && ava"
+    "test": "ava"
   },
   "repository": {
     "type": "git",
