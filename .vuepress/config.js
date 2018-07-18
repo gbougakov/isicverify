@@ -1,6 +1,6 @@
 module.exports = {
   dest: 'docs',
-  title: 'Jebase',
+  title: 'ISICVerify',
   themeConfig: {
     sidebar: false
   },
