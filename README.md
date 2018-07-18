@@ -1,5 +1,5 @@
 ## ISICverify - Verify ISIC cards using Node.js
-[![Build Status](https://travis-ci.com/GeorgeBgk/isicverify.svg?branch=master)](https://travis-ci.com/GeorgeBgk/isicverify)
+[![Build Status](https://travis-ci.com/gbougakov/isicverify.svg?branch=master)](https://travis-ci.com/gbougakov/isicverify)
 ### Install
 ```bash
 npm i isicverify
